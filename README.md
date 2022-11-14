@@ -44,6 +44,8 @@
 
 - Juyal, Shuchi, Sachin Sharma, and Amal Shankar Shukla. "[Smart skin health monitoring using AI-enabled cloud-based IoT.](https://www.sciencedirect.com/science/article/pii/S2214785321000973?casa_token=kDmvrMEUpvEAAAAA:uQP3l4UDVpf47Iu9-Vrll9HVdqKvI6kOo0U2dnAQVgW2Kb6HD1CIPQcqZ-pzKNKbTXv1HjkAwQ)" Materials Today: Proceedings 46 (2021): 10539-10545
 
+- [A New Report Says Over 50 Percent of Face Paints and Cosmetics Marketed to Kids Are Toxic](https://www.womansday.com/health-fitness/a56680/toxic-face-painting-supplies/) BY DIANE MACEACHERN
+
 ## Computer Vision & Machine Learning
 
 ### Make-up Facial Recognition & anti-make-up
