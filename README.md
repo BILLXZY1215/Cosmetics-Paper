@@ -74,6 +74,8 @@
 
 - Ballegaard, Stinne Aaløkke, Thomas Riisgaard Hansen, and Morten Kyng. "[Healthcare in everyday life: designing healthcare services for daily life.](https://dl.acm.org/doi/abs/10.1145/1357054.1357336)" Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. 2008.
 
+- Bauer, Jared S., et al. "[ShutEye: encouraging awareness of healthy sleep recommendations with a mobile, peripheral display.](https://dl.acm.org/doi/abs/10.1145/2207676.2208600)" Proceedings of the SIGCHI conference on Human factors in computing systems. 2012.
+
 ### Women's Health
 
 - Almeida, Teresa, Rob Comber, and Madeline Balaam. "[HCI and Intimate Care as an Agenda for Change in Women's Health.](https://dl.acm.org/doi/abs/10.1145/2858036.2858187)" Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. 2016.
