@@ -87,3 +87,7 @@
 ### Skincare (appearance building) Prediction
 
 - Shi, Chuhan, et al. "[A Personalized Visual Aid for Selections of Appearance Building Products with Long-term Effects.](https://dl.acm.org/doi/abs/10.1145/3491102.3517659)" CHI Conference on Human Factors in Computing Systems. 2022.
+
+### Human-AI Collaboration
+
+- Wang, Xiaohui, et al. "[First Impression: AI Understands Personality.](https://dl.acm.org/doi/pdf/10.1145/3394171.3416339)" Proceedings of the 28th ACM International Conference on Multimedia. 2020.
