@@ -46,6 +46,8 @@
 
 - [A New Report Says Over 50 Percent of Face Paints and Cosmetics Marketed to Kids Are Toxic](https://www.womansday.com/health-fitness/a56680/toxic-face-painting-supplies/) BY DIANE MACEACHERN
 
+- Mohiuddin, Abdul Kader. "[Skin care creams: formulation and use.](https://d1wqtxts1xzle7.cloudfront.net/60349675/skincare20190820-122332-1mtd94i-libre.pdf?1566359595=&response-content-disposition=inline%3B+filename%3DSkin_Care_Creams_Formulation_and_Use.pdf&Expires=1676283075&Signature=T2GWhbpzhB1e~CvQgl0YLi4ua0vAOgOABJsXuhjU2WJw68CxbpkTi~gXBZmVrwx2ucEqmnnHC3k8dQqlsvV74EBVTiYZLCJ7qFFAu54-BonOUqk7u30RKU77scTCgXgmfLeaI6RCYjqYiDw-A4qmLpLjsBNbt8kgHCXsnDLr9fawes7T7uzbaVDQ6ZXL0vLRuJW4Me-~NH0NxpOjOVmUDmszQBGqMf2XlYbRbvLkpy5BPraAPzV~t0KTZ2ut88fX4-E-1U7FAhsKEj0wALUS9XYYPYaNlKoG1CTKJq5ajAAZMF6kvwguFVW1L5ZoXN~L~jbKMVQfSVFyuu5YYgl0wQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)" Dermatol Clin Res 5.1 (2019): 238-271.
+
 ## Computer Vision & Machine Learning
 
 ### Make-up Facial Recognition & anti-make-up
