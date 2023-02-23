@@ -58,6 +58,8 @@
 
 - Kanaska, Santa Daniela. "[IS THE FUTURE OF BEAUTY PERSONALIZED?: CASE STUDY FOR MICROBIOME SKINCARE BRAND SKINOME.](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1703718&dswid=1535)" (2022).
 
+- Cao, Chong, et al. "[Makeup removal via bidirectional tunable de-makeup network.](https://ieeexplore.ieee.org/abstract/document/8693800)" IEEE Transactions on Multimedia 21.11 (2019): 2750-2761.
+
 ### Transfer Learning -- Make-up
 
 - Chang, Huiwen, et al. "[Pairedcyclegan: Asymmetric style transfer for applying and removing makeup.](https://openaccess.thecvf.com/content_cvpr_2018/html/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.html)" Proceedings of the IEEE conference on computer vision and pattern recognition. 2018.
