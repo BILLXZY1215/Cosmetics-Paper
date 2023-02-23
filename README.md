@@ -52,6 +52,10 @@
 
 - Brown, T. "[Strategies for prevention: occupational contact dermatitis.](https://watermark.silverchair.com/kqh097.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAwYwggMCBgkqhkiG9w0BBwagggLzMIIC7wIBADCCAugGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMhl3-2Z-wdfpuomfuAgEQgIICudTUrDA-x-nmPFtdjl9Iw2LQ3KlYjkQ81CpSckWg-d-kxBh6IxGzRjB8a-3D8dtJu2njYAcNwPDXt5PaXpoYEEwQbHKoW2ukDHjn9NUhjoa_4zlNWEYfm_FifPzt5FQ_1Oah6GR8S4Y_wkY7Wl8525DezP-CdWLGzM-yb7rBWghBEtPtdWoHSj1gI9UbbPO3TwQfcPKFlzR4x6bynwC-wT9eyqOoqiH0cW-PDhhqMsS_aAuKCaBXsd4Rh3d5ti7DNSIgSv8lgpixzr7GKsGB4FGeTPMtTbO8J7qMSLhlQkZqb5IXamCFm2uYVdRf5GjNnTNbI2rf09YfJFQd7JMEZ6PN4oxSpSdb_Z-qMpOu_JUGxhk6sHPpJyu2mbXjvyC0VhMk7uN9u4FXHnpnFCb6x5QFVkZqD3qvTyA2wuuYAec6dDs4_yBCbthp6BsHf0QcxtAO52VPIcsh3ID8Y9VAsvy0lEPWdsx5eXLl6XQhxc-RMVW6b7L91XyKrYMicol-ehi4GQSB_uWyczn_iWngbHV5wCrtg4iU45IOcpN1GnO1GYNoLO-Rj63lGSmUgwNMPFR7MV72WjDmrrtSjseg1ZEuFJd9BBVwptrQHpoK_N7q2FBucwuFtTGlDcSXQSgAe3kUFllg0ixrg8TZw-pLJTgxlDPa2edPxMDy87xau1kquLG2IwBr7x_ACVcwttAboB3VlClkwJHGHtnVHtiKunYHRPkYAW7OQoMYg9jGVFiWdn-5d4rTXi5JGsDu06z-x5jjtCtx7fTuCNeUa_EDS4je2pChZWLS_GIZ6yE9UDxYBK3ex2pXvrZUne4cXmYUoh6_cB_Q6Dm2xUuIv6uvzl1znWpz3NXVcpBQbjw7kK_i8E5tqGR45w0_t1tT4-NsPM0LI8MU8Sj5xLUme0i58hYAlCgEe8WDDJ4)" Occupational Medicine 54.7 (2004): 450-457.
 
+- Keegel, Tessa, et al. "[The epidemiology of occupational contact dermatitis (1990-2007): a systematic review.](https://research.monash.edu/en/publications/the-epidemiology-of-occupational-contact-dermatitis-1990-2007-a-s)" International journal of dermatology 48 (2009): 571-578.
+
+- Belsito, Donald V. "[Occupational contact dermatitis: etiology, prevalence, and resultant impairment/disability.](https://www.sciencedirect.com/science/article/pii/S019096220500914X)" Journal of the American Academy of Dermatology 53.2 (2005): 303-313.
+
 ## Computer Vision & Machine Learning
 
 ### Make-up Facial Recognition & anti-make-up
