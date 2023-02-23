@@ -38,7 +38,7 @@
 
 - Isoda, K., et al. "[Effects of washing of the face with a mild facial cleanser formulated with sodium laureth carboxylate and alkyl carboxylates on acne in Japanese adult males.](https://onlinelibrary.wiley.com/doi/abs/10.1111/srt.12183?casa_token=tHmysi-mGYoAAAAA:C3UPaVQLS7EQY9XJk7rp5hmqoSX042Ps30ZjVKbTE6g3v9VoKS6ohgQuqOcG_LHvUo1JEgkMaA5orfo)" Skin Research and Technology 21.2 (2015): 247-253.
 
-## Skincare
+### Skincare
 
 - Sonneville-Aubrun, O., J-T. Simonnet, and F. L'alloret. "[Nanoemulsions: a new vehicle for skincare products.](https://www.sciencedirect.com/science/article/abs/pii/S0001868603001465?casa_token=MSFGhja1C_QAAAAA:QaWnqKQOfGBdBcfa9AzN7wn3N5agNbSPwvtaRV09iuDsOOKIMfsy5X10QCbNSRvXXmRm_TIW)" Advances in colloid and interface science 108 (2004): 145-149.
 
@@ -47,6 +47,10 @@
 - [A New Report Says Over 50 Percent of Face Paints and Cosmetics Marketed to Kids Are Toxic](https://www.womansday.com/health-fitness/a56680/toxic-face-painting-supplies/) BY DIANE MACEACHERN
 
 - Mohiuddin, Abdul Kader. "[Skin care creams: formulation and use.](https://d1wqtxts1xzle7.cloudfront.net/60349675/skincare20190820-122332-1mtd94i-libre.pdf?1566359595=&response-content-disposition=inline%3B+filename%3DSkin_Care_Creams_Formulation_and_Use.pdf&Expires=1676283075&Signature=T2GWhbpzhB1e~CvQgl0YLi4ua0vAOgOABJsXuhjU2WJw68CxbpkTi~gXBZmVrwx2ucEqmnnHC3k8dQqlsvV74EBVTiYZLCJ7qFFAu54-BonOUqk7u30RKU77scTCgXgmfLeaI6RCYjqYiDw-A4qmLpLjsBNbt8kgHCXsnDLr9fawes7T7uzbaVDQ6ZXL0vLRuJW4Me-~NH0NxpOjOVmUDmszQBGqMf2XlYbRbvLkpy5BPraAPzV~t0KTZ2ut88fX4-E-1U7FAhsKEj0wALUS9XYYPYaNlKoG1CTKJq5ajAAZMF6kvwguFVW1L5ZoXN~L~jbKMVQfSVFyuu5YYgl0wQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)" Dermatol Clin Res 5.1 (2019): 238-271.
+
+### Occupational Contact Dermatitis (OCD)
+
+- Brown, T. "[Strategies for prevention: occupational contact dermatitis.](https://watermark.silverchair.com/kqh097.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAwYwggMCBgkqhkiG9w0BBwagggLzMIIC7wIBADCCAugGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMhl3-2Z-wdfpuomfuAgEQgIICudTUrDA-x-nmPFtdjl9Iw2LQ3KlYjkQ81CpSckWg-d-kxBh6IxGzRjB8a-3D8dtJu2njYAcNwPDXt5PaXpoYEEwQbHKoW2ukDHjn9NUhjoa_4zlNWEYfm_FifPzt5FQ_1Oah6GR8S4Y_wkY7Wl8525DezP-CdWLGzM-yb7rBWghBEtPtdWoHSj1gI9UbbPO3TwQfcPKFlzR4x6bynwC-wT9eyqOoqiH0cW-PDhhqMsS_aAuKCaBXsd4Rh3d5ti7DNSIgSv8lgpixzr7GKsGB4FGeTPMtTbO8J7qMSLhlQkZqb5IXamCFm2uYVdRf5GjNnTNbI2rf09YfJFQd7JMEZ6PN4oxSpSdb_Z-qMpOu_JUGxhk6sHPpJyu2mbXjvyC0VhMk7uN9u4FXHnpnFCb6x5QFVkZqD3qvTyA2wuuYAec6dDs4_yBCbthp6BsHf0QcxtAO52VPIcsh3ID8Y9VAsvy0lEPWdsx5eXLl6XQhxc-RMVW6b7L91XyKrYMicol-ehi4GQSB_uWyczn_iWngbHV5wCrtg4iU45IOcpN1GnO1GYNoLO-Rj63lGSmUgwNMPFR7MV72WjDmrrtSjseg1ZEuFJd9BBVwptrQHpoK_N7q2FBucwuFtTGlDcSXQSgAe3kUFllg0ixrg8TZw-pLJTgxlDPa2edPxMDy87xau1kquLG2IwBr7x_ACVcwttAboB3VlClkwJHGHtnVHtiKunYHRPkYAW7OQoMYg9jGVFiWdn-5d4rTXi5JGsDu06z-x5jjtCtx7fTuCNeUa_EDS4je2pChZWLS_GIZ6yE9UDxYBK3ex2pXvrZUne4cXmYUoh6_cB_Q6Dm2xUuIv6uvzl1znWpz3NXVcpBQbjw7kK_i8E5tqGR45w0_t1tT4-NsPM0LI8MU8Sj5xLUme0i58hYAlCgEe8WDDJ4)" Occupational Medicine 54.7 (2004): 450-457.
 
 ## Computer Vision & Machine Learning
 
