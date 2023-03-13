@@ -102,6 +102,12 @@
 
 - Patwardhan, Sachin V., et al. "[Auto-classification of acne lesions using multimodal imaging.](https://europepmc.org/article/med/23884485)" Journal of drugs in dermatology: JDD 12.7 (2013): 746-756.
 
+- Kohli, Indermeet, et al. "[Three‐dimensional imaging of vitiligo.](https://onlinelibrary.wiley.com/doi/full/10.1111/exd.12791)" Experimental dermatology 24.11 (2015): 879-880.
+
+- Dobos, Gabor, et al. "[Effects of intrinsic aging and photodamage on skin dyspigmentation: an explorative study.](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-21/issue-6/066016/Effects-of-intrinsic-aging-and-photodamage-on-skin-dyspigmentation/10.1117/1.JBO.21.6.066016.full)" Journal of Biomedical Optics 21.6 (2016): 066016-066016.
+
+- Kohli, Indermeet, et al. "[Quantitative measurement of skin surface oiliness and shine using differential polarized images.](https://link.springer.com/article/10.1007/s00403-020-02070-5)" Archives of dermatological research 313 (2021): 71-77.
+
 ## Human-Computer Interaction
 
 ### Healthcare Community
