@@ -56,6 +56,14 @@
 
 - Belsito, Donald V. "[Occupational contact dermatitis: etiology, prevalence, and resultant impairment/disability.](https://www.sciencedirect.com/science/article/pii/S019096220500914X)" Journal of the American Academy of Dermatology 53.2 (2005): 303-313.
 
+- Zirwas, Matthew J. "[Contact dermatitis to cosmetics.](https://link.springer.com/article/10.1007/s12016-018-8717-9)" Clinical Reviews in Allergy & Immunology 56 (2019): 119-128.
+
+- Lim, Yen Loo, and Anthony Goon. "[Occupational skin diseases in Singapore 2003–2004: an epidemiologic update.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0536.2007.01032.x)" Contact dermatitis 56.3 (2007): 157-159.
+
+- Hoffman, Thomas E., and Robert M. Adams. "[Contact dermatitis to benzoin in greasepaint makeup.](https://europepmc.org/article/med/738048)" Contact Dermatitis 4.6 (1978): 379-380.
+
+- Diepgen, T. L., and P. J. Coenraads. "[The epidemiology of occupational contact dermatitis.](https://link.springer.com/article/10.1007/s004200050407)" International archives of occupational and environmental health 72 (1999): 496-506.
+
 ## Computer Vision & Machine Learning
 
 ### Make-up Facial Recognition & anti-make-up
@@ -67,6 +75,10 @@
 - Kanaska, Santa Daniela. "[IS THE FUTURE OF BEAUTY PERSONALIZED?: CASE STUDY FOR MICROBIOME SKINCARE BRAND SKINOME.](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1703718&dswid=1535)" (2022).
 
 - Cao, Chong, et al. "[Makeup removal via bidirectional tunable de-makeup network.](https://ieeexplore.ieee.org/abstract/document/8693800)" IEEE Transactions on Multimedia 21.11 (2019): 2750-2761.
+
+- Houle, Marie-Claude, D. Linn Holness, and Joel DeKoven. "[Occupational contact dermatitis: an individualized approach to the worker with dermatitis.](https://link.springer.com/article/10.1007/s13671-021-00339-0)" Current Dermatology Reports (2021): 1-10.
+
+- Brown, T. "[Strategies for prevention: occupational contact dermatitis.](https://academic.oup.com/occmed/article-abstract/54/7/450/1370747)" Occupational Medicine 54.7 (2004): 450-457.
 
 ### Transfer Learning -- Make-up
 
@@ -85,6 +97,10 @@
 - Rallan, D., and C. C. Harland. "[Skin imaging: is it clinically useful?.](https://watermark.silverchair.com/ced0453.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAwwwggMIBgkqhkiG9w0BBwagggL5MIIC9QIBADCCAu4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFq8infcETCda3RZ2AgEQgIICv3BPkfpWFTUCUh0LSj4-jH-L8Fm72BxrJ95Is5frHoHwMuWOeKKd-PWCyBzLb68Lv1uHSq-1OGRz94f-pe3jRCc0jfM_dp6GhRlsdHLNtN4O2BcEm7QjzNoRmzYyzQXWobSCAStoZMx_ZOGCAxWzUG48Co6l8DsEWIHJEXl7nmGic4wgXh17I5vbLh-6ftca4ceAtGAAgH8DMsHqDbbBARNFxSNCct-3SU_zGYkJCtQZM3eU0er3czcaRFTRaXJLJqKZmVrZzee2C8pE8dgyDjhHw-6p_Om3MqqKyeNLREKxM_v_LY9u9mCVdbnQOspEscyxPPOtV0ez-dWJDICkFYr6ddcjT1GsfWGAZStKJn50spYNyt2GOETweD-6N7GMKyJ72w90uijVvNYT_MkxzafHn5VUr0y5rYEqRSRRetoFJ0-VZm_annyXoSv011QS4XF8iiFKgFB59f7pEWsgM0j-gZKrYMgv2WRlWm6nHEQeGYO6xtFUrWMMgiglrzNghdAo_MtxbLBzVbMR1SjpP703fH2BYAEjZAGFCVUVS5xx47ZSLaZxe9l0rEb1-Kc806odeM6PkRF8waSzjLkSlvJ2GDFoIaOSDmXV0PAG8UdFSPccH8fVWmfacGmPQ0ZOH1RhdSvtxZxcu5L6YKPpUE5AGtTbTXk6puBAJ5GDo-zX1J5S6upZUbOE3dwG42yMJPos7Qc0cEzkx2rDXQIWzpzywgCu_AP4g_BqOgOyz8IvAvfKhmVn8bsr9KVALDghTfffXl5AghtTP8x-Qkd36-XYwsXCw-KjyTuWbZLvujeVb4hWIGkHrnHARwEZN4SXB1csVlMJJ2czFOnAsIVbUUAMPaRSo0pBvXvg5ivrG5gkvi8J2drtd9AwAr9rMsAHB43pQ7sdRS3YZ2g4JTV8X4OX6czCnS57VAqXzNd-RWU)" Clinical and experimental dermatology 29.5 (2004): 453-459.
 
 - Codella, Noel, et al. "[Skin lesion analysis toward melanoma detection 2018: A challenge hosted by the international skin imaging collaboration (isic).](https://arxiv.org/abs/1902.03368)" arXiv preprint arXiv:1902.03368 (2019).
+
+- Wang, Yuxuan, et al. "[Automatic Acne Classification using VISIA.](https://dl.acm.org/doi/pdf/10.1145/3484274.3484291)" Proceedings of the 4th International Conference on Control and Computer Vision. 2021.
+
+- Patwardhan, Sachin V., et al. "[Auto-classification of acne lesions using multimodal imaging.](https://europepmc.org/article/med/23884485)" Journal of drugs in dermatology: JDD 12.7 (2013): 746-756.
 
 ## Human-Computer Interaction
 
