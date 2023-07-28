@@ -20,6 +20,14 @@
 
 ## Chemistry & Material
 
+### Chinese Opera Performers
+
+- Wang, B., Su, Y., Tian, L., Peng, S. and Ji, R., 2020. [Heavy metals in face paints: Assessment of the health risks to Chinese opera actors.](https://www.sciencedirect.com/science/article/pii/S0048969720316764) Science of The Total Environment, 724, p.138163.
+
+Wang, B., Tian, L., Tian, L., Wang, X., He, Y. and Ji, R., 2023. [Insights into Health Risks of Face Paint Application to Opera Performers: The Release of Heavy Metals and Stage-Light-Induced Production of Reactive Oxygen Species.](https://pubs.acs.org/doi/full/10.1021/acs.est.2c03595) Environmental Science & Technology, 57(9), pp.3703-3712.
+
+Wang, B., Zheng, Z., Chen, L., Zhang, W., He, Y., Wu, B. and Ji, R., 2023. [Transcriptomics reveals key regulatory pathways and genes associated with skin diseases induced by face paint usage.](https://www.sciencedirect.com/science/article/pii/S0048969723029959) Science of The Total Environment, 890, p.164374.
+
 ### Make-up Remover Evaluation
 
 - Xing, Huajing, et al. "[Understanding the global sensory landscape for facial cleansing/makeup remover wipes.](https://www.mdpi.com/2079-9284/6/3/44)" Cosmetics 6.3 (2019): 44.
